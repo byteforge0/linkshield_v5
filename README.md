@@ -25,7 +25,9 @@ LinkShield includes a professional dark cyber-style dashboard with:
 - 🌐 Scam, phishing, tracking, and fraud pattern detection
 
 
-assets/preview.png
+<p align="center">
+  <img src="./assets/preview.png" alt="QamarOS Login Screen" width="800">
+</p>
 
 ---
 
