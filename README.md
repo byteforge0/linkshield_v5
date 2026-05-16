@@ -26,7 +26,7 @@ LinkShield includes a professional dark cyber-style dashboard with:
 
 > Add your screenshot here:
 >
-> `assets/preview.png`
+> assets/preview.png
 
 ---
 
