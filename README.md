@@ -24,7 +24,7 @@ LinkShield includes a professional dark cyber-style dashboard with:
 - 📋 Explainable security findings
 - 🌐 Scam, phishing, tracking, and fraud pattern detection
 
-> Add your screenshot here:
+
 assets/preview.png
 
 ---
