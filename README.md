@@ -105,8 +105,8 @@ A local ML model is trained on URL features and gives an additional suspicious-l
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LinkShield.git
-cd LinkShield
+git clone https://github.com/byteforge0/linkshield_v5.git
+cd linkshield_v5
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
