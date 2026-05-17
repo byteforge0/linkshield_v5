@@ -26,7 +26,7 @@ LinkShield includes a professional dark cyber-style dashboard with:
 
 
 <p align="center">
-  <img src="./assets/preview.png" alt="QamarOS Login Screen" width="800">
+  <img src="./assets/preview.png" alt="LinkShield Preview Screen" width="800">
 </p>
 
 ---
