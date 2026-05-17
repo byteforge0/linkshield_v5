@@ -516,3 +516,4 @@ else:
         metric_card("Scam Links", "Strict High", "Fraud correlations")
     with c3:
         metric_card("Explainability", "Full Report", "Every signal shown")
+        

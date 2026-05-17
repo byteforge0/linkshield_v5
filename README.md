@@ -251,7 +251,7 @@ For production use, LinkShield should be combined with trusted threat-intelligen
 
 ## 🧑‍💻 Author
 
-Built by **Yazen Alsaho**.
+Built by **Yazen Alsaho** (byteforge0).
 
 ---
 

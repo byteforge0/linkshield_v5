@@ -19,3 +19,4 @@ def predict(url, model=None):
     label = int(model.predict(x)[0])
     probability = float(model.predict_proba(x)[0][1]) if hasattr(model, "predict_proba") else float(label)
     return label, probability
+
